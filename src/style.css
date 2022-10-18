@@ -1,0 +1,64 @@
+/* ----------------Navbar--------------------------- */
+
+
+
+input {
+    height: 40px;
+    width: 500px;
+    border-radius: 9px;
+    margin:10px auto 5px 20px;
+  }
+/* .nav {
+display: flex;
+box-shadow: 10px 10px 20px gray;
+margin-bottom: 20px
+}
+.nav-title {
+ margin:10px 10px 5px 20px;
+   background-color: green;
+}
+.nav-logo {
+   margin:10px 10 5px 10px
+}
+/* 
+
+
+
+
+
+
+
+
+
+ /* ---------------------Chart-------------------------- */
+ .chart {
+background-color: blue;
+width: 600px;
+height: 350px;
+margin-left: auto 
+ }
+
+ /* -----------------------------Power--------------- */
+ /* .power{
+    display: flex;
+    gap: 10px;
+    background-color: green;
+ }
+.power-title{
+    font-weight:bold
+} */
+/* .power-amount{} */
+
+/* -----------------------------Sidebar--------------- */
+
+
+/* .sidebar-header{
+   display: flex;
+   justify-content: space-between;
+} */
+/*.sidebar{}
+ .sidebar-card{} */
+
+/* -------------------------------Footer------------------ */
+
+/* .footer{} */
